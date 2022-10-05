@@ -2,12 +2,11 @@
 
 ### Functions that return a value
 
-1.
-a. Write a function that takes three integer arguments and PRINTS OUT the smallest value.
+1a. Write a function that takes three integer arguments and PRINTS OUT the smallest value.
 
-b. Write a function that takes three integer arguments and RETURNS the smallest value. Have your `main()` function call this function three times, each time saving the return value to a variable. Then print out all three values in one print statement.
+1b. Write a function that takes three integer arguments and RETURNS the smallest value. Have your `main()` function call this function three times, each time saving the return value to a variable. Then print out all three values in one print statement.
 
-c. Do the same as 1b, but in `main(`) don't save the return values out to variables. Instead, provide the function calls as arguments in `print()`.
+2c. Do the same as 1b, but in `main(`) don't save the return values out to variables. Instead, provide the function calls as arguments in `print()`.
 
 2. Write a function that take two strings and returns a string containing the common characters in those two strings. In the `main()` function, print out the return value in two different ways.
 
