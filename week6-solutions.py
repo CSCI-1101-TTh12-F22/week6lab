@@ -33,6 +33,9 @@ def alphabetical(a, b):
         return True
     else:
         return False
+    
+def alphabetical_alternative(a, b):
+    return a < b
 
 #4
 def biggestdivisor(n):
