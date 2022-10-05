@@ -2,9 +2,12 @@
 
 ### Functions that return a value
 
-1a. Write a function that takes three integer arguments and PRINTS OUT the smallest value.
-1b. Write a function that takes three integer arguments and RETURNS the smallest value. Have your `main()` function call this function three times, each time saving the return value to a variable. Then print out all three values in one print statement.
-1c. Do the same as 1b, but in `main(`) don't save the return values out to variables. Instead, provide the function calls as arguments in `print()`.
+1.
+a. Write a function that takes three integer arguments and PRINTS OUT the smallest value.
+
+b. Write a function that takes three integer arguments and RETURNS the smallest value. Have your `main()` function call this function three times, each time saving the return value to a variable. Then print out all three values in one print statement.
+
+c. Do the same as 1b, but in `main(`) don't save the return values out to variables. Instead, provide the function calls as arguments in `print()`.
 
 2. Write a function that take two strings and returns a string containing the common characters in those two strings. In the `main()` function, print out the return value in two different ways.
 
@@ -16,13 +19,13 @@
 
 ### Functions that return multiple values
 
-1. Write a function that returns the min, max, and average of three integer arguments. In the `main()` function print out these values.
+5. Write a function that returns the min, max, and average of three integer arguments. In the `main()` function print out these values.
 
-2. Write a function that takes two string arguments and returns a string containing all the vowels shared in both strings and its length. Print them both out in `main()`.
+6. Write a function that takes two string arguments and returns a string containing all the vowels shared in both strings and its length. Print them both out in `main()`.
 
 
 ### Using Python modules
-1. Using `random()`, write a function that generates random integers between 1 and 100 until you get one divisible 7. Return the number you get, and in the `main()` function, print out that number.
+7. Using `random()`, write a function that generates random integers between 1 and 100 until you get one divisible 7. Return the number you get, and in the `main()` function, print out that number.
 
-2. Using `math()`, experiment with `.floor(), .factorial(), log(), sqrt()`.
+8. Using `math()`, experiment with `.floor(), .factorial(), log(), sqrt()`.
 
